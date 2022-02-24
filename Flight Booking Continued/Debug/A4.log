@@ -1,0 +1,51 @@
+﻿  Booking.cpp
+  Employee.cpp
+e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): error C2061: syntax error: identifier 'Employee'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.h(43): error C2065: 'Employee': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.h(43): error C2059: syntax error: ','
+  Flight.cpp
+e:\libraries\downloads\a4 (5)\a4\a4\employee.h(18): error C2061: syntax error: identifier 'Flight'
+e:\libraries\downloads\a4 (5)\a4\a4\employee.h(19): error C2535: 'void Employee::addFlight(void)': member function already defined or declared
+  e:\libraries\downloads\a4 (5)\a4\a4\employee.h(18): note: see declaration of 'Employee::addFlight'
+e:\libraries\downloads\a4 (5)\a4\a4\employee.h(24): error C2065: 'Flight': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\employee.h(24): error C2059: syntax error: ','
+  testA4.cpp
+e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): error C2061: syntax error: identifier 'Employee'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.h(43): error C2065: 'Employee': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.h(43): error C2059: syntax error: ','
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(18): error C3312: no callable 'begin' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(18): error C3312: no callable 'end' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(19): error C2065: 'i': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(36): error C3312: no callable 'begin' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(36): error C3312: no callable 'end' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(37): error C2440: '=': cannot convert from 'nullptr' to 'int'
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(37): note: A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(45): error C2511: 'void Flight::addEmployee(Employee *)': overloaded member function not found in 'Flight'
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(18): note: see declaration of 'Flight'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(46): error C2597: illegal reference to non-static member 'Flight::empCounter'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(46): error C3867: 'Flight::empCounter': non-standard syntax; use '&' to create a pointer to member
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(47): error C3312: no callable 'begin' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(47): error C3312: no callable 'end' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(48): error C2065: 'i': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(49): error C2065: 'i': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(50): error C2597: illegal reference to non-static member 'Flight::empCounter'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(50): error C3867: 'Flight::empCounter': non-standard syntax; use '&' to create a pointer to member
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(50): error C2105: '++' needs l-value
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(110): error C3312: no callable 'begin' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(110): error C3312: no callable 'end' function found for type 'unknown-type'
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(111): error C2065: 'i': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(112): error C2065: 'i': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\flight.cpp(114): error C2065: 'i': undeclared identifier
+e:\libraries\downloads\a4 (5)\a4\a4\testa4.cpp(31): error C2660: 'Flight::addEmployee': function does not take 1 arguments
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): note: see declaration of 'Flight::addEmployee'
+e:\libraries\downloads\a4 (5)\a4\a4\testa4.cpp(32): error C2660: 'Flight::addEmployee': function does not take 1 arguments
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): note: see declaration of 'Flight::addEmployee'
+e:\libraries\downloads\a4 (5)\a4\a4\testa4.cpp(33): error C2660: 'Flight::addEmployee': function does not take 1 arguments
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): note: see declaration of 'Flight::addEmployee'
+e:\libraries\downloads\a4 (5)\a4\a4\testa4.cpp(35): error C2660: 'Flight::addEmployee': function does not take 1 arguments
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): note: see declaration of 'Flight::addEmployee'
+e:\libraries\downloads\a4 (5)\a4\a4\testa4.cpp(36): error C2660: 'Flight::addEmployee': function does not take 1 arguments
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): note: see declaration of 'Flight::addEmployee'
+e:\libraries\downloads\a4 (5)\a4\a4\testa4.cpp(37): error C2660: 'Flight::addEmployee': function does not take 1 arguments
+  e:\libraries\downloads\a4 (5)\a4\a4\flight.h(23): note: see declaration of 'Flight::addEmployee'
+  Generating Code...
